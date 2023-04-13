@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello,<br>I'm Suraj Kumar 2 year AI  student  in IIT Hyderabad.
+Hello,<br>I'm Suraj Kumar 2^nd year AI  student  in IIT Hyderabad.
 
 
 ## 🌐 Socials:

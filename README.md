@@ -15,4 +15,3 @@ Hello,<br>I'm Suraj Kumar 2<sup>nd</sup> year AI  student  in IIT Hyderabad.
 ---
 [![](https://visitcount.itsvg.in/api?id=kumarsuraj151&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

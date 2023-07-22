@@ -1,8 +1,5 @@
 # 💫 About Me:
-Hello,<br>My name is Suraj Kumar, and I am currently pursuing a Bachelor of Technology (B.Tech) degree in Artificial Intelligence at IIT Hyderabad. I am currently in my third year of studies, and I am passionate about exploring the fascinating field of AI.
-<br> In terms of technical skills, Firstly, I am proficient in web development, which includes front-end and back-end technologies. I am experienced in HTML, CSS, JavaScript, and various web frameworks(next.js,sveltekit). I enjoy building interactive and visually appealing websites.
-<br> In addition to web development, I have a solid understanding of Data Structures and Algorithms (DSA). I have honed my problem-solving abilities through coding challenges and projects. DSA forms the backbone of efficient programming, and I strive to implement optimized solutions.
-<br> My primary area of interest and specialization lies in Artificial Intelligence (AI). I have gained knowledge in various AI concepts and techniques, including machine learning, deep learning, natural language processing (NLP), and computer vision. I am familiar with popular AI frameworks and libraries like TensorFlow and PyTorch. I enjoy exploring the potential of AI to solve real-world problems and make a positive impact
+I'm Suraj Kumar, a passionate third-year student pursuing a B.Tech in Artificial Intelligence at IIT Hyderabad. Proficient in web development and skilled in HTML, CSS, JavaScript, Next.js, and Sveltekit. I excel in solving problems using Data Structures and Algorithms. My focus lies in AI, exploring machine learning, deep learning, NLP, and computer vision. I aim to leverage AI frameworks like TensorFlow and PyTorch to create positive impacts in real-world challenges.
 
 
 ## 🌐 Socials:

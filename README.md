@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm **Suraj Kumar**, a final-year student pursuing a B.Tech in Artificial Intelligence at IIT Hyderabad. I am proficient in full stack technology (MERN) and particularly interested in backend development. I excel in solving problems using Data Structures and Algorithms. My focus is on AI, including machine learning, deep learning, NLP, and computer vision.
+I'm **Suraj Kumar**, a final-year student pursuing B.Tech in Artificial Intelligence at IIT Hyderabad. I am proficient in full-stack technology (MERN) and particularly interested in backend development. I excel in solving problems using Data Structures and Algorithms. My focus is on AI, including machine learning, deep learning, NLP, and computer vision.
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kumarsuraj151) 
@@ -32,6 +32,10 @@ I'm **Suraj Kumar**, a final-year student pursuing a B.Tech in Artificial Intell
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) 
